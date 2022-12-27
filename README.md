@@ -2,9 +2,9 @@
 This project is an supervised learning based spam classifier that uses Multinomial Naive Bayes classifier to differentiate between spam/ham texts.
 
 To deploy the web application:
-install streamlit Python package either through pip or conda
+\ninstall streamlit Python package either through pip or conda
 
 Eg: 
-Install: conda install -c conda-forge streamlit
-Place the app.py, model.pkl and vectorizer.pkl in same directory
-Run: streamlit run app.py
+- Install: conda install -c conda-forge streamlit
+- Place the app.py, model.pkl and vectorizer.pkl in same directory
+- Run: streamlit run app.py
